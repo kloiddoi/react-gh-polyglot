@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kloiddoi/react-gh-polyglot/static/css/main.89a3d65d.css",
+    "main.js": "/kloiddoi/react-gh-polyglot/static/js/main.8422cfad.js",
+    "static/js/787.2a1eb5d4.chunk.js": "/kloiddoi/react-gh-polyglot/static/js/787.2a1eb5d4.chunk.js",
+    "index.html": "/kloiddoi/react-gh-polyglot/index.html",
+    "main.89a3d65d.css.map": "/kloiddoi/react-gh-polyglot/static/css/main.89a3d65d.css.map",
+    "main.8422cfad.js.map": "/kloiddoi/react-gh-polyglot/static/js/main.8422cfad.js.map",
+    "787.2a1eb5d4.chunk.js.map": "/kloiddoi/react-gh-polyglot/static/js/787.2a1eb5d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89a3d65d.css",
+    "static/js/main.8422cfad.js"
+  ]
+}
